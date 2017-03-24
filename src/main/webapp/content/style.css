@@ -1,0 +1,77 @@
+body {
+
+    background-image: url("../img/009.jpg");
+    background-size: cover;
+    /*background-attachment: fixed;*/
+}
+
+#plank1
+{
+    width: 750px;
+    height: 500px;
+    /*text-align: ;;*/
+    /*margin: 0px auto;*/
+    /*margin-top: 60px;*/
+    /*background-color: #a1eb87;*/
+    background-color: rgba(161, 235, 135, 0.70);
+    border: 1px solid #21b268;
+    border-radius: 10px;
+    padding: 1px 15px 1px 15px;
+    font-family: sans-serif;
+    /*font-color: #b23435;*/
+}
+#plank2 {
+    width: 250px;
+    height: 465px;
+    /*text-align : -webkit-center;*/
+    margin-left: 15px;
+    margin-top: 5px;
+    background-color: rgba(235, 226, 102, 0.70);
+    border: 1px solid #aaacb2;
+    border-radius: 10px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 30px;
+    font-family: sans-serif;
+}
+#plank3 {
+    width: 250px;
+    height: 560px;
+    /*text-align : -webkit-center;*/
+    margin-left: 15px;
+    margin-top: 5px;
+    background-color: rgba(235, 105, 29, 0.70);
+    border: 1px solid #aaacb2;
+    border-radius: 10px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 30px;
+    font-family: sans-serif;
+}
+#plank4 {
+    width: 450px;
+    height: 560px;
+    /*text-align : -webkit-center;*/
+    margin-left: 15px;
+    margin-top: 5px;
+    background-color: rgba(16, 235, 95, 0.70);
+    border: 1px solid #aaacb2;
+    border-radius: 10px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 30px;
+    font-family: sans-serif;
+}
+/*#textwindow {*/
+    /*background-color: #fffa9e;*/
+    /*resize: none;*/
+    /*border-radius: 5;*/
+/*}*/
+
+#textString {
+    text-align:left;
+    border-radius: 5;
+    border: 1px solid #aaacb2;
+    padding-left: 5px;
+    padding-right: 5px;
+}

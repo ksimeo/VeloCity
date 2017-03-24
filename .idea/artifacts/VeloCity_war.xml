@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="VeloCity:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="bike-online-project.war">
+      <element id="artifact" artifact-name="VeloCity:war exploded" />
+    </root>
+  </artifact>
+</component>
